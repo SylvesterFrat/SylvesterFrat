@@ -7,7 +7,7 @@ My name is Sylvester Fratarcangeli and I am from Ontario, Canada. I am currently
 Skills: JAVA / Python / HTML / CSS
 
 - 🌱 I’m currently learning in-depth Object-Oriented Programming theory.
-- 👀 I'm interested in learning REST API's for data collection. 
+- 👀 I'm interested in studying REST API's for data collection. 
 
 Contact: sfratarc@uwo.ca
 
