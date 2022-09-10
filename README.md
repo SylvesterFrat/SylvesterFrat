@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Sylvester
 #### Software Development & Design
-![Software Development & Design](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Software Development & Design](https://github.com/SylvesterFrat/SylvesterFrat/blob/main/sfratarcgithubbanner.png)
+
 
 My name is Sylvester Fratarcangeli and I am from Ontario, Canada. I am currently a student studying at Western University majoring in Computer Science. I enjoy learning and applying new concepts in software development and creating cool projects.
 
