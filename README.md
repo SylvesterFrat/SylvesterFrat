@@ -9,7 +9,7 @@ Skills: JAVA / Python / HTML / CSS
 - 🌱 I’m currently learning in-depth Object-Oriented Programming theory.
 - 👀 I'm interested in studying REST API's for data collection. 
 
-Contact: sfratarc@uwo.ca
+Contact: sylvesterfratarcangeli@gmail.com
 
 
 
