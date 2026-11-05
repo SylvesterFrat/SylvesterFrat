@@ -43,3 +43,5 @@ Studied AI-assisted software development by analyzing 298 GitHub Copilot interac
 **Email:** sylvesterfratarcangeli@gmail.com
 
 **GitHub:** [@SylvesterFrat](https://github.com/SylvesterFrat)
+
+**LinkedIn:** [Here](https://www.linkedin.com/in/sylvester-fratarcangeli-5487a9251/)
